@@ -4,7 +4,7 @@
 ### Disclaimer
 The papers included in the presentation files in this GitHub repository are sourced from publicly available publications presented at conferences such as SIGGRAPH, SIGGRAPH Asia, ICML, ICLR, NeurIPS, CVPR, ICCV, and ECCV. They are used solely for academic communication and educational purposes. No commercial use is intended or involved.
 
-Date: 19/03/2025 ~ (Every Wed. 5pm UTC+8, @ Dept. of CSIE, NTU)
+###  Date: 19/03/2025 ~ (Every Wed. 5pm UTC+8, @ Dept. of CSIE, NTU)
 
 | Topic                 | Presenter            | Slides                   | Video                                   |
 |--------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------|
