@@ -8,7 +8,7 @@ Date: 19/03/2025 ~ (Every Wed. 5pm UTC+8, @ Dept. of CSIE, NTU)
 
 | Topic                 | Presenter            | Slides                   | Video                                   |
 |--------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| W1 (19/03): Walkin' Robin: Walk on Stars with Robin Boundary Conditions  | [Shih-Yu Lai](https://www.linkedin.com/in/shih-yu-lai)                | N/A                                                                                                          | N/A                                     |
+| W1 (19/03): Walkin' Robin: Walk on Stars with Robin Boundary Conditions  | [Shih-Yu Lai](https://www.linkedin.com/in/shih-yu-lai) | N/A   | N/A                                     |
 | W1 (19/03): Repulsive Shells  | [Yi-Ting Chiu](https://tw.linkedin.com/in/yi-ting-chiu-9b2355230)                | N/A                                                                                                          | N/A                                     |
 
 | W2 (26/03): ToonCrafter: Generative Cartoon Interpolation   | [Shih-Yu Lai](https://www.linkedin.com/in/shih-yu-lai)                | N/A                                                                                                          | N/A                                     |
