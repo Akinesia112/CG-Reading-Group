@@ -6,7 +6,7 @@ The papers included in the presentation files in this GitHub repository are sour
 
 ### Members
 - [Shih-Yu Lai](https://www.linkedin.com/in/shih-yu-lai), 
-- [Yi-Ting Chiu](https://tw.linkedin.com/in/yi-ting-chiu-9b2355230) ,
+- [Yi-Ting Chiu](https://www.linkedin.com/in/yi-ting-chiu-9b2355230),
 - [Wei-Hsin Yeh](https://www.linkedin.com/in/wei-hsin-yeh-1b4000215),
 - [Yen-Tzeng Tseng]()
 
