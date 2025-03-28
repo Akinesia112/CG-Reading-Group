@@ -7,7 +7,7 @@ The papers included in the presentation files in this GitHub repository are sour
 ### Members
 - [Shih-Yu Lai](https://www.linkedin.com/in/shih-yu-lai), 
 - [Yi-Ting Chiu](https://tw.linkedin.com/in/yi-ting-chiu-9b2355230) ,
-- [Wei-Hsin Yeh](),
+- [Wei-Hsin Yeh](https://www.linkedin.com/in/wei-hsin-yeh-1b4000215),
 - [Yen-Tzeng Tseng]()
 
 ###  Date: 19/03/2025 ~ (Every Wed. 5pm UTC+8, @ Dept. of CSIE, NTU)
