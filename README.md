@@ -17,4 +17,4 @@ The papers included in the presentation files in this GitHub repository are sour
 | W1 (19/03): Walkin' Robin: Walk on Stars with Robin Boundary Conditions  | Shih-Yu Lai | N/A   | N/A   |
 | W1 (19/03): Repulsive Shells  | Yi-Ting Chiu | N/A | N/A                                     |
 | W2 (26/03): ToonCrafter: Generative Cartoon Interpolation   | Shih-Yu Lai    | N/A       | N/A  |
-| W3 (02/04):    N/A                |   N/A      | N/A                   | N/A                                     |
+| W3 (02/04): Repulsive Shells | Yi-Ting Chiu | N/A | N/A |
