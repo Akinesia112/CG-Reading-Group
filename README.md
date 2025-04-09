@@ -18,3 +18,4 @@ The papers included in the presentation files in this GitHub repository are sour
 | W1 (19/03): Repulsive Shells  | Yi-Ting Chiu | N/A | N/A                                     |
 | W2 (26/03): ToonCrafter: Generative Cartoon Interpolation   | Shih-Yu Lai    | N/A       | N/A  |
 | W3 (02/04): Repulsive Shells | Yi-Ting Chiu | N/A | N/A |
+| W4 (09/04): As-rigid-as-possible shape manipulation | Wei-Hsin Yeh | [Link](https://hackmd.io/@weihsinyeh/ARAP) | N/A |
