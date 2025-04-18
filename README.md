@@ -8,7 +8,7 @@ The papers included in the presentation files in this GitHub repository are sour
 - [Shih-Yu Lai](https://www.linkedin.com/in/shih-yu-lai), 
 - [Yi-Ting Chiu](https://www.linkedin.com/in/yi-ting-chiu-9b2355230),
 - [Wei-Hsin Yeh](https://www.linkedin.com/in/wei-hsin-yeh-1b4000215),
-- [Yen-Jean Tseng]()
+- [Yen-Chen Tseng]()
 
 ###  Date: 19/03/2025 ~ (Every Wed. 5pm UTC+8, @ Dept. of CSIE, NTU)
 
@@ -19,3 +19,4 @@ The papers included in the presentation files in this GitHub repository are sour
 | W2 (26/03): ToonCrafter: Generative Cartoon Interpolation   | Shih-Yu Lai    | N/A       | N/A  |
 | W3 (02/04): Repulsive Shells | Yi-Ting Chiu | N/A | N/A |
 | W4 (09/04): As-rigid-as-possible shape manipulation | Wei-Hsin Yeh | [Link](https://hackmd.io/@weihsinyeh/ARAP) | N/A |
+| W5 (15/04): DUSt3R: Geometric 3D Vision Made Easy | Yen-Chen Tseng| N/A | N/A|
