@@ -20,5 +20,6 @@ The papers included in the presentation files in this GitHub repository are sour
 | W3 (02/04): Repulsive Shells | Yi-Ting Chiu | N/A | N/A |
 | W4 (09/04): As-rigid-as-possible shape manipulation | Wei-Hsin Yeh | [Link](https://hackmd.io/@weihsinyeh/ARAP) |
 | W5 (16/04): DUSt3R: Geometric 3D Vision Made Easy | Yen-Chen Tseng| N/A | 
-| W6 (30/04): Monte Carlo geometry processing: a grid-free approach to PDE-based methods on volumetric domains | Shih-Yu Lai| N/A | 
-| W7 (07/05): DiffPD: Differentiable Projective Dynamics | Yi-Ting Chiu| N/A | 
+| W6 (23/04): Interactive Computer Graphics (2025 Spring, NTU CSIE) Midterm Week | N/A| N/A |
+| W7 (30/04): Monte Carlo geometry processing: a grid-free approach to PDE-based methods on volumetric domains | Shih-Yu Lai| N/A | 
+| W8 (07/05): DiffPD: Differentiable Projective Dynamics | Yi-Ting Chiu| N/A | 
