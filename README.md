@@ -12,11 +12,13 @@ The papers included in the presentation files in this GitHub repository are sour
 
 ###  Date: 19/03/2025 ~ (Every Wed. 5pm UTC+8, @ Dept. of CSIE, NTU)
 
-| Topic                 | Presenter            | Slides                   | Video                                   |
-|--------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| W1 (19/03): Walkin' Robin: Walk on Stars with Robin Boundary Conditions  | Shih-Yu Lai | N/A   | N/A   |
-| W1 (19/03): Repulsive Shells  | Yi-Ting Chiu | N/A | N/A                                     |
-| W2 (26/03): ToonCrafter: Generative Cartoon Interpolation   | Shih-Yu Lai    | N/A       | N/A  |
+| Topic                 | Presenter            | Slides                   | 
+|--------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------|
+| W1 (19/03): Walkin' Robin: Walk on Stars with Robin Boundary Conditions  | Shih-Yu Lai | [Link](https://www.canva.com/design/DAGiEZyiipk/HLTUQwUvLXPYCLq_BlY7bA/view?utm_content=DAGiEZyiipk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h11ffdfc78c)   |
+| W1 (19/03): Repulsive Shells  | Yi-Ting Chiu | N/A | 
+| W2 (26/03): ToonCrafter: Generative Cartoon Interpolation | Shih-Yu Lai | [Link](https://www.canva.com/design/DAGiuXzM11g/3DQfnyU3ATYBVddRK0tO6Q/view?utm_content=DAGiuXzM11g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h10d91f9883)    |
 | W3 (02/04): Repulsive Shells | Yi-Ting Chiu | N/A | N/A |
-| W4 (09/04): As-rigid-as-possible shape manipulation | Wei-Hsin Yeh | [Link](https://hackmd.io/@weihsinyeh/ARAP) | N/A |
-| W5 (15/04): DUSt3R: Geometric 3D Vision Made Easy | Yen-Chen Tseng| N/A | N/A|
+| W4 (09/04): As-rigid-as-possible shape manipulation | Wei-Hsin Yeh | [Link](https://hackmd.io/@weihsinyeh/ARAP) |
+| W5 (16/04): DUSt3R: Geometric 3D Vision Made Easy | Yen-Chen Tseng| N/A | 
+| W6 (30/04): Monte Carlo geometry processing: a grid-free approach to PDE-based methods on volumetric domains | Shih-Yu Lai| N/A | 
+| W7 (07/05): DiffPD: Differentiable Projective Dynamics | Yi-Ting Chiu| N/A | 
