@@ -24,4 +24,4 @@ The papers included in the presentation files in this GitHub repository are sour
 | W7 (30/04): Monte Carlo geometry processing: a grid-free approach to PDE-based methods on volumetric domains | Shih-Yu Lai| N/A | 
 | W8 (07/05): DiffPD: Differentiable Projective Dynamics | Yi-Ting Chiu| N/A | 
 | W8 (07/05): Symbol-LLM: Leverage Language Models for Symbolic System in Visual Human Activity Reasoning | Shih-Yu Lai| [Link](https://www.canva.com/design/DAGmq4QysZ0/tdedWaT2M2zLG5G6IY7Gyg/view?utm_content=DAGmq4QysZ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he3dd69b510) | 
-| W9 (016/05): Trust-Region Eigenvalue Filtering for Projected Newton | Shih-Yu Lai| [Link](https://www.notion.so/Trust-Region-Eigenvalue-Filtering-for-Projected-Newton-1f453553c478800bba4ee52950785ade?pvs=4) | 
+| W9 (16/05): Trust-Region Eigenvalue Filtering for Projected Newton | Shih-Yu Lai| [Link](https://www.notion.so/Trust-Region-Eigenvalue-Filtering-for-Projected-Newton-1f453553c478800bba4ee52950785ade?pvs=4) | 
