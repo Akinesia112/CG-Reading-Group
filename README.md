@@ -12,6 +12,8 @@ The papers included in the presentation files in this GitHub repository are sour
 
 ###  Date: 19/03/2025 ~ (Every Wed. 5pm UTC+8, @ Dept. of CSIE, NTU)
 
+###  Session 1
+
 | Topic                 | Presenter            | Slides                   | 
 |--------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------|
 | W1 (19/03): Walkin' Robin: Walk on Stars with Robin Boundary Conditions  | Shih-Yu Lai | [Link](https://www.canva.com/design/DAGiEZyiipk/HLTUQwUvLXPYCLq_BlY7bA/view?utm_content=DAGiEZyiipk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h11ffdfc78c)   |
@@ -25,3 +27,10 @@ The papers included in the presentation files in this GitHub repository are sour
 | W8 (07/05): DiffPD: Differentiable Projective Dynamics | Yi-Ting Chiu| N/A | 
 | W8 (07/05): Symbol-LLM: Leverage Language Models for Symbolic System in Visual Human Activity Reasoning | Shih-Yu Lai| [Link](https://www.canva.com/design/DAGmq4QysZ0/tdedWaT2M2zLG5G6IY7Gyg/view?utm_content=DAGmq4QysZ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he3dd69b510) | 
 | W9 (16/05): Trust-Region Eigenvalue Filtering for Projected Newton | Shih-Yu Lai| [Link](https://www.notion.so/Trust-Region-Eigenvalue-Filtering-for-Projected-Newton-1f453553c478800bba4ee52950785ade?pvs=4) | 
+
+###  Session 2
+
+| Topic                 | Presenter            | Slides                   | 
+|--------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------|
+| W1 (17/09): Fast But Accurate: A Real-Time Hyperelastic Simulator with Robust Frictional Contact | Shih-Yu Lai | N/A |
+| W1 (17/09): Subspace Mixed Finite Elements for Real-Time Heterogeneous Elastodynamics  | Yen-Chen Tseng | N/A |
