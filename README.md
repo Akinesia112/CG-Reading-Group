@@ -11,6 +11,8 @@ The papers included in the presentation files in this GitHub repository are sour
 - [Yen-Chen Tseng](),
 - [Jui I (Ray) Huang](https://www.linkedin.com/in/jui-i-huang/details/projects/),
 - [Sung-Han Tien](),
+- [Hao-Hsuan Lee](),
+- [Bo-Ru Chen]()
 
 ###  Date: 19/03/2025 ~ (Every Wed. 5pm UTC+8, @ Dept. of CSIE, NTU)
 
